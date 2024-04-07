@@ -9,7 +9,7 @@ const socketInit = () => {
         transports : ['websocket'],
     }
 
-    return io("http://localhost:5500", options);
+    return io("https://jampod-backend.onrender.com", options);
 }
 
 export default socketInit
