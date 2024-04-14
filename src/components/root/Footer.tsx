@@ -10,13 +10,13 @@ const Footer:React.FC = () => {
           Feel the rhythm, join the rhyme, live in the moment, one song at a time.
           </p>
           <div className="flex w-full mt-2 mb-8 -mx-2">
-            <Link to="https://amritraj.vercel.app" target="_blank" className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md">
+            <Link to="https://jampod-three.vercel.app/" target="_blank" className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md">
               <img src="/images/facebook.svg" width={60} height={80} alt="logo" className="h-6 w-6" />
             </Link>
-            <Link to="https://amritraj.vercel.app" target="_blank" className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md">
+            <Link to="https://jampod-three.vercel.app/" target="_blank" className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md">
               <img src="/images/twitter.svg" width={60} height={80} alt="logo" className="h-6 w-6" />
             </Link>
-            <Link to="https://instagram.com/rajamrit_15/" target="_blank" className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md">
+            <Link to="https://jampod-three.vercel.app/" target="_blank" className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md">
               <img src="/images/instagram.svg" width={60} height={80} alt="logo" className="h-6 w-6" />
             </Link>
           </div>
